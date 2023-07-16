@@ -1,5 +1,5 @@
 function multiply(x: number, y: number): number {
-  return x + y;
+  return x + y
 }
 
-multiply(2, 2);
+multiply(2, 2)
