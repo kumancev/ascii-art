@@ -12,7 +12,14 @@ npm run start:dev
 ```bash
 npm run build
 ```
-## Starts app in production
+## Starts app in production:
 ```bash
 npm run start
+```
+## Using app:
+```bash
+# after run app, paste path for you image
+What's the file path: ./src/test.png # enter
+done
+# check output-ascii.txt
 ```
