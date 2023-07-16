@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "lib": ["es6"],
+    "module": "NodeNext",
+    "rootDir": "src",
+    // "moduleResolution": "node10",
+    // "baseUrl": "./",
+    // "paths": {},
+    // "rootDirs": [],
+    // "typeRoots": [],
+    // "types": [],
+    // "allowUmdGlobalAccess": true,
+    // "moduleSuffixes": [],
+    // "allowImportingTsExtensions": true,
+    // "resolvePackageJsonExports": true,
+    // "resolvePackageJsonImports": true,
+    // "customConditions": [],
+    "resolveJsonModule": true,
+
+    // "outFile": "./",
+    "outDir": "build",
+
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "noUnusedLocals": true,
+    "skipLibCheck": true
+  }
+}
